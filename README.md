@@ -49,7 +49,7 @@ o	Coordinate between the testing team and stakeholders for status updates and is
 o	Review automation test cases created by the team for completeness and accuracy.
 o	Identify risks and provide mitigation strategies for the testing process.
 o	Ensure adherence to best practices in automation testing.
-# 2. Sonu Singh (Automation Tester)
+# 2. Anil Rajak (Automation Tester)
 •	Role: Automation Tester
 •	Responsibilities:
 o	Design, develop, and execute automation scripts for various modules (e.g., Employee Management, Leave Management).
@@ -57,7 +57,7 @@ o	Collaborate with the Test Lead to identify areas for automation and optimize t
 o	Debug and resolve issues in test scripts to ensure stability.
 o	Validate test results, log defects, and track them to closure.
 o	Maintain documentation for test automation frameworks and processes.
-# 3. Balaji Chavan (Manual Tester)
+# 3. Anil Rajak (Manual Tester)
 •	Role: Manual Tester
 •	Responsibilities:
 o	Execute manual test cases for functional, usability, and UI testing.
