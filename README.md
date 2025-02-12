@@ -39,7 +39,6 @@ The test coverage will include functional, non-functional, and security, perform
 1. Manual Testing:  Most features will be tested manually (user login, menu display, order placement, etc.), as these require human judgment, especially for UI/UX and functional testing
 
 # 7.Roles and Responsibilities:-
-# 1. Anil Rajak (Test Lead)
 •	Role: Test Lead (Automation Testing Specialist)
 •	Responsibilities:
 o	Plan and oversee the testing process, ensuring quality and deadlines are met.
@@ -49,7 +48,7 @@ o	Coordinate between the testing team and stakeholders for status updates and is
 o	Review automation test cases created by the team for completeness and accuracy.
 o	Identify risks and provide mitigation strategies for the testing process.
 o	Ensure adherence to best practices in automation testing.
-# 2. Anil Rajak (Automation Tester)
+# 1. Automation Tester
 •	Role: Automation Tester
 •	Responsibilities:
 o	Design, develop, and execute automation scripts for various modules (e.g., Employee Management, Leave Management).
@@ -57,7 +56,7 @@ o	Collaborate with the Test Lead to identify areas for automation and optimize t
 o	Debug and resolve issues in test scripts to ensure stability.
 o	Validate test results, log defects, and track them to closure.
 o	Maintain documentation for test automation frameworks and processes.
-# 3. Anil Rajak (Manual Tester)
+# 2. Manual Tester
 •	Role: Manual Tester
 •	Responsibilities:
 o	Execute manual test cases for functional, usability, and UI testing.
